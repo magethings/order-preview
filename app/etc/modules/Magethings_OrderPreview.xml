@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Magethings_OrderPreview>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Magethings_OrderPreview>
+    </modules>
+</config>
